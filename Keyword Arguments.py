@@ -1,4 +1,4 @@
-#An exercist in concatenating a string to an object
+#An exercise in concatenating a string to an object
 #INCORRECT
 
 # Define create_spreadsheet():
